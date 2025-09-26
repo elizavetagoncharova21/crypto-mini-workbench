@@ -1,0 +1,6 @@
+{
+  "holdings": [
+    { "id": "bitcoin", "amount": 0.1 },
+    { "id": "ethereum", "amount": 0.5 }
+  ]
+}
